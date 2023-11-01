@@ -1,0 +1,31 @@
+Appetizers
+001 French_Fries 18 7 20
+002 Onion_Rings 18 7 18
+003 Mozzarella_Sticks 22 9 15
+004 Chicken_Wings 24 10 12
+005 Nachos 20 8 12
+Salads
+006 Caesar_Salad 24 12 8
+007 Greek_Salad 24 12 8
+008 Caprese_Salad 24 12 8
+009 Cobb_Salad 26 13 8
+010 Garden_Salad 20 10 10
+Fried Burgers
+011 Cheeseburger 30 10 10
+012 Hamburger 28 9 15
+Griled Burgers
+013 Veggie_Burger 26 10 12
+014 Mushroom_Swiss_Burger 32 12 10
+015 BBQ_Chicken_Burger 32 12 10
+Pizzas
+016 Cheese_Pizza 36 14 10
+017 Pepperoni_Pizza 36 14 10
+018 Margherita_Pizza 36 14 10
+029 BBQ_Chicken_Pizza 38 15 10
+020 Veggie_Pizza 38 15 10
+Desserts
+021 Chocolate_Cake 18 9 10
+022 Apple_Pie 18 9 10
+023 Ice_Cream_Sundae 12 9 10
+024 Brownie_Sundae 14 10 10
+025 Cheesecake 20 11 8
